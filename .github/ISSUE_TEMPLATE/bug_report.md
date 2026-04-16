@@ -4,6 +4,7 @@ about: Create a Bug report to help us improve
 title: "[BUG] {your discord name here}"
 labels: ''
 assignees: ''
+type: Bug
 
 ---
 
@@ -17,7 +18,7 @@ assignees: RoninVictory
 ---
 
 **Discord Username**
-Please provide your Discord username so I can reach out if I need more details.
+Please provide your **actual username** (e.g., `ronin.victory`), NOT your display name.
 > 
 
 **Describe the bug**
@@ -39,4 +40,4 @@ If applicable, add screenshots or copy-paste any error logs the bot provided.
  - Discord Version: [e.g. Desktop App, Web Browser, Mobile App]
 
 **Additional context**
-Add any other context about the problem here (e.g., did this happen in a specific channel or after a specific event like a server restart?).
+Add any other context about the problem here (e.g., did this happen in a specific channel or after a specific event like a Bot server restart?).
