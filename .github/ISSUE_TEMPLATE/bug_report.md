@@ -40,4 +40,4 @@ If applicable, add screenshots or copy-paste any error logs the bot provided.
  - Discord Version: [e.g. Desktop App, Web Browser, Mobile App]
 
 **Additional context**
-Add any other context about the problem here (e.g., did this happen in a specific channel or after a specific event like a Bot server restart?).
+Add any other context about the problem here (e.g., did this happen in a specific channel or after a specific event like a server restart?).
